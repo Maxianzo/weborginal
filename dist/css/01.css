@@ -1,0 +1,23 @@
+body{background: linear-gradient(-80deg,yellow,#700f70);
+padding: 100px  }
+
+.cuadrado{
+	background: white;
+width: 800px;
+height: 400px;
+margin: auto;
+
+}
+.rectagulo{background: orange;
+  width: 800px;
+  height: 50px;
+}
+
+.rectagulo2{background: orange;
+  width: 800px;
+  height: 50px;
+}
+
+.enviar{
+  color: blue;
+}

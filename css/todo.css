@@ -1,0 +1,47 @@
+.page-top{
+	background: gold;
+}
+
+body{
+	background-image: url(assets/img/logodorado.png);
+}
+.imgbro{
+	width: 20px;
+}
+
+
+.venta1 {    width: 100%;
+    margin-top: 25%;
+    height: 113vw;
+}
+header{
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    
+}
+
+.section1 {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    background: gold;
+    border-radius: 7%;
+    text-align: center;
+}
+.section2 {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    background: white;
+    border-radius: 7%;
+ text-align: center;   
+}
+.tamgr{
+	font-size: 5.00rem;
+	    color: darkgoldenrod;
+}
+.tamgr2{
+	    font-size: 2.75rem;
+}
+
